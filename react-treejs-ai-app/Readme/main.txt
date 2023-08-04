@@ -32,3 +32,8 @@ sec3 - client structure arrangement
 - pages
 - store for valtio
 
+
+sec4 - HomePage
+~~~~~~~~~~~~~~~
+- using framer-motion, valtio & animations
+
