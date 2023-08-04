@@ -42,4 +42,8 @@ sec4 - HomePage
 sec5 - CustomizerPage
 ~~~~~~~~~~~~~~~~~~~~~
 - create AIPicker, AIPicker, FilePicker, Tab components
+- crearte CustomizerPage layouts:
+    - EditorTabs section in left center
+    - GoBack CustomButton in top right
+    - FilterTabs section in down center
 
