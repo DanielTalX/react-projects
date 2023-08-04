@@ -6,6 +6,9 @@ https://github.com/adrianhajdin/project_threejs_ai/tree/main
 * TailwindCSS - a popular utility-first CSS styling framework
 * Framer Motion - the most popular library used to bring your React website to life with animations
 
+extensions:
+- ES7+React
+
 sec1 - setup react client
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 - npm create vite@latest -- --template react client
@@ -17,5 +20,11 @@ sec1 - setup react client
     update index.css
 - npm run dev
 
+
 sec2 - import resources in advance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+sec3 - client structure arrangement
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
