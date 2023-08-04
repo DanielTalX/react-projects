@@ -36,4 +36,5 @@ sec3 - client structure arrangement
 sec4 - HomePage
 ~~~~~~~~~~~~~~~
 - using framer-motion, valtio & animations
+- create CustomButton
 
