@@ -36,5 +36,10 @@ sec3 - client structure arrangement
 sec4 - HomePage
 ~~~~~~~~~~~~~~~
 - using framer-motion, valtio & animations
-- create CustomButton
+- create CustomButton component
+
+
+sec5 - CustomizerPage
+~~~~~~~~~~~~~~~~~~~~~
+- create AIPicker, AIPicker, FilePicker, Tab components
 
