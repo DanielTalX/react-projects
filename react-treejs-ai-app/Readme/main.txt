@@ -16,3 +16,6 @@ sec1 - setup react client
     update tailwind.config.js file
     update index.css
 - npm run dev
+
+sec2 - import resources in advance
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
