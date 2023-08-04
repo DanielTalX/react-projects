@@ -27,4 +27,8 @@ sec2 - import resources in advance
 
 sec3 - client structure arrangement
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- components
+- canvas
+- pages
+- store for valtio
 
