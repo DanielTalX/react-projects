@@ -58,3 +58,4 @@ sec6 - Working On Canvas
 - display the Shirt
 - working on CameraRig
 - end working Shirt
+- working on Backdrop
