@@ -55,4 +55,4 @@ sec6 - Working On Canvas
     - Backdrop - the backsplash of yellow color behind the shirt
     - CameraRig - the positioning of the camera
     - Shirt
-- 
+- display the shirt
