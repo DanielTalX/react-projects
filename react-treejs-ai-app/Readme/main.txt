@@ -63,3 +63,4 @@ sec6 - Working On Canvas
 sec7 - Working On Tabs
 ~~~~~~~~~~~~~~~~~~~~~~
 - working on Tab
+- Customizer - generateTabContent
