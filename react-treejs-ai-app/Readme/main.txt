@@ -47,3 +47,12 @@ sec5 - CustomizerPage
     - GoBack CustomButton in top right
     - FilterTabs section in down center
 
+
+sec6 - Working On Canvas
+~~~~~~~~~~~~~~~~~~~~~~~~
+- here we implement three.js fiber using lighting shadows camera and 3d models
+- create components for canvas:
+    - Backdrop - the backsplash of yellow color behind the shirt
+    - CameraRig - the positioning of the camera
+    - Shirt
+- 
