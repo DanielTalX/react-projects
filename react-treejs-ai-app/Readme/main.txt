@@ -66,3 +66,6 @@ sec7 - Working On Tabs
 - Customizer - generateTabContent
 - ColorPicker
 - FilePicker
+- AIPicker:
+    - creating a backend server using openApi
+
