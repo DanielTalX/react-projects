@@ -65,3 +65,4 @@ sec7 - Working On Tabs
 - working on Tab
 - Customizer - generateTabContent
 - ColorPicker
+- FilePicker
