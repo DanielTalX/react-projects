@@ -59,3 +59,7 @@ sec6 - Working On Canvas
 - working on CameraRig
 - end working Shirt
 - working on Backdrop
+
+sec7 - Working On Tabs
+~~~~~~~~~~~~~~~~~~~~~~
+- working on Tab
