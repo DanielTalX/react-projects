@@ -22,4 +22,9 @@ sec1 - setup react client
 sec2 - working on client
 ~~~~~~~~~~~~~~~~~~~~~~~~
 - app layout
+- Create Components Folder
+    - Card
+    - Form Field
+    - Loader
+- Home Page
 
