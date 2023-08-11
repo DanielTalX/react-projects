@@ -18,3 +18,8 @@ sec1 - setup react client
 - npm run dev
 - import resources in advance
 
+
+sec2 - working on client
+~~~~~~~~~~~~~~~~~~~~~~~~
+- app layout
+
