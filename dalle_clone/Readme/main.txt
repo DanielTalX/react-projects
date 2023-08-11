@@ -1,0 +1,19 @@
+Build and Deploy a Full Stack MERN AI Image Generation App MidJourney & DALL E Clone
+https://github.com/adrianhajdin/project_ai_mern_image_generation
+
+* TailwindCSS - a popular utility-first CSS styling framework
+
+extensions:
+- ES7+React
+
+sec1 - setup react client
+~~~~~~~~~~~~~~~~~~~~~~~~~
+- npm create vite@latest ./
+- npm install file-saver
+- tailwindcss:
+    npm install -D tailwindcss postcss autoprefixer
+    npx tailwindcss init -p
+    update tailwind.config.js file
+    update index.css
+- npm run dev
+
