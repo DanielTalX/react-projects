@@ -34,3 +34,9 @@ sec3 - working on server
 - dalle route for generate images
 - post route for saving images in mongoDB and cloudinary
 - client changes to use backend
+
+sec4 - client
+~~~~~~~~~~~~~
+- Card Component
+- search filter feature
+
