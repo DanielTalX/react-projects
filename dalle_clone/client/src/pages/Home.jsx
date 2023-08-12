@@ -2,6 +2,9 @@ import React, { useEffect, useState } from 'react';
 
 import { Card, FormField, Loader } from '../components';
 
+const baseUrl2 = 'https://dalle-arbb.onrender.com';
+const baseUrl = 'http://localhost:3005'
+
 const RenderCards = ({ data, title }) => {
   if (data?.length > 0) {
     return (
@@ -18,7 +21,33 @@ function Home() {
   const [loading, setLoading] = useState(false);
   const [allPosts, setAllPosts] = useState(null);
 
-  const [searchText, setSearchText] = useState('hi');
+  const [searchText, setSearchText] = useState('');
+
+  const fetchPosts = async () => {
+    setLoading(true);
+
+    try {
+      const response = await fetch(`${baseUrl}/api/v1/post`, {
+        method: 'GET',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+      });
+
+      if (response.ok) {
+        const result = await response.json();
+        setAllPosts(result.data.reverse());
+      }
+    } catch (err) {
+      alert(err);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  useEffect(() => {
+    fetchPosts();
+  }, []);
 
   return (
     <section className="max-w-7xl mx-auto">
